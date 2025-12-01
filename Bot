@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mening Saytim</title>
+    <style>
+        body {
+            background: #111;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        img {
+            margin-top: 20px;
+            border-radius: 15px;
+            max-width: 90%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Mening Web Saytimga Xush Kelibsiz!</h1>
+
+    <!-- 🔽 Bu yerga rasm qo‘shiladi -->
+    <img src="IMG_20251124_181909_084.jpg " alt="Mening rasmim">
+
+    <p>GitHub Pages orqali tayyorlangan oddiy sayt.</p>
+
+</body>
+</html> 
