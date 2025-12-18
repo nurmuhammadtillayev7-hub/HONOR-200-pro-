@@ -3,31 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mening Saytim</title>
+    <title>IELS.school</title>
+
     <style>
         body {
-            background: #111;
-            color: white;
+            background-color: #111;
+            color: #ffffff;
             font-family: Arial, sans-serif;
             text-align: center;
             padding: 20px;
         }
-        img {
+
+        h1 {
             margin-top: 20px;
-            border-radius: 15px;
+        }
+
+        img {
+            margin-top: 25px;
             max-width: 90%;
             height: auto;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(255,255,255,0.3);
+        }
+
+        p {
+            margin-top: 20px;
+            font-size: 16px;
         }
     </style>
 </head>
 <body>
 
-    <h1>Mening Web Saytimga Xush Kelibsiz!</h1>
+    <h1>IELS.school</h1>
 
-    <!-- 🔽 Bu yerga rasm qo‘shiladi -->
-    <img src="IMG_20251124_181909_084.jpg " alt="Mening rasmim">
+    <!-- 📸 RASM -->
+    <img src="Screenshot_20251218_185459.jpg" alt="Sertifikat rasm">
 
-    <p>GitHub Pages orqali tayyorlangan oddiy sayt.</p>
+    <p>GitHub Pages orqali joylangan rasm.</p>
 
 </body>
-</html> 
+</html>
